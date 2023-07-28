@@ -1,0 +1,14 @@
+Primeiro, expressaria compreensão e empatia pelo problema enfrentado pelo 
+usuário. Isso ajuda a estabelecer uma conexão positiva desde o início. 
+Depois pediria mais detalhes sobre o erro, como um print da tela e o 
+caminho que percorreu no sistema até ocorrer o erro. Então tentaria 
+reproduzir o erro seguindo os passos relatados pelo usuário, e caso 
+conseguisse tentaria identificar o motivo do erro, consultaria
+colegas da empresa, a documentação do sistema e pesquisas ONLINE para 
+verificar se é um erro conhecido ou se seria algum bug. Se confirmado que 
+realmente se tratasse de um bug e não conseguisse encontrar uma solução, 
+encaminharia para o setor responsável da empresa para que fosse possível 
+solucionar o problema, informando ao usuário que o problema está sendo
+investigado e que o manterei atualizado sobre progresso da resolução. Além
+de agradecê-lo por reportar o erro  pois isso ajuda a melhorar o sistema e 
+proporciona uma experiência mais satisfatória para todos os usuários.

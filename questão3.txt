@@ -1,0 +1,7 @@
+Solicitaria que o usuário enviasse mais informações sobre a mensagem de erro,
+como um print da tela e o caminho que ele percorreu no sistema até ocorrer o
+erro. Depois tentaria reproduzir o erro seguindo os passos relatados pelo
+usuário, caso conseguisse verificaria a causa do erro e o porquê dele estar
+ocorrendo, consultando colegas de equipe e a documentação do sistema para
+conseguir solucioná-lo.
+conseguir solucioná-lo.

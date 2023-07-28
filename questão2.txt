@@ -1,0 +1,12 @@
+Primeiramente coletaria informações detalhadas com o cliente sobre o problema.
+Fazendo perguntas específicas para entender melhor o cenário em que a lentidão
+ocorre, como por exemplo: quais recursos são afetados, o momento em que começou, 
+a frequência, se acontece com todos os usuários ou apenas alguns, etc.
+   
+E depois analisaria as respostas do cliente e tentaria encontrar a raiz do
+problema com base nas informações recebidas. Por exemplo, se a lentidão ocorrer
+com apenas um usuário é mais provável que o problema esteja em sua máquina, e 
+nesse caso simplesmente solicitar que ele reinicie o sistema pode solucionar a
+questão. Já se afetar um número maior de usuários seria necessário envolver
+outras áreas da empresa para tentar encontrar uma solução e dar uma resposta 
+satisfatória para o cliente.
